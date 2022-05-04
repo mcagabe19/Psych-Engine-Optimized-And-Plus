@@ -1,5 +1,3 @@
 # Psych-Engine-Optimized
 Da Fuckin Optimized
-(Some Phone Don't Works.
-https://github.com/jigsaw-4277821/FNF-PsychEngine-Android-Support/issues/15
-Check Link And Goodbye.)
+(Some Devices Don't Works Psych 0.5.2h Sorry)
